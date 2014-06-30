@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>1. 上下左右转头范围减小？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>2. 有时脖子扭动时，有“咔咔”的声音?</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>3. 颈肩部麻木、僵硬？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>4. 上肢或指尖感觉麻木？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string> 5. 颈肩腰背部有痛点？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>6. 颈部、腰部发凉？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>7. 经常感到头晕、头痛?</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>8. 经常感到恶心、呕吐、视物不清？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string> 9. 常伴有耳鸣？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>10. 经常落枕（一年超过四次即为经常）？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>11. 清晨起床后，感觉颈部或腰部僵硬？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>12. 颈部、腰部肌肉很容易疲劳？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>13. 颈、腰部不适会持续好几天？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>14. 因腰痛导致下肢有放射性疼痛或跛行？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>15. 常常神经紧张、思虑过度？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>16. 胸闷、心慌、血压不稳、头皮发麻？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>17. 记忆力越来越差了</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>18. 握力减弱，握不住东西？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>19. 走路时有双腿“打漂”的感觉？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>20. 小便失禁或阳痿？</string>
+		<key>Answer</key>
+		<array>
+			<string>A:  有</string>
+			<string>B：偶有</string>
+			<string>C：无</string>
+		</array>
+	</dict>
+</array>
+</plist>
